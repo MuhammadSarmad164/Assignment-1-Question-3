@@ -7,15 +7,12 @@
     android:background="@drawable/background">
 
     <LinearLayout
-
         android:layout_width="match_parent"
         android:layout_height="0px"
         android:layout_weight="1"
-
         android:orientation="horizontal"
         android:weightSum="5">
         <LinearLayout
-
             android:layout_width="0px"
             android:layout_weight="1"
             android:gravity="center"
@@ -133,11 +130,9 @@
         android:layout_height="0px"
         android:layout_weight="1"
 
-
         android:orientation="horizontal"
         android:weightSum="5">
         <LinearLayout
-
             android:layout_width="0px"
             android:layout_weight="1"
             android:gravity="center"
@@ -710,4 +705,5 @@
 
 
     </LinearLayout>
+
 </RelativeLayout>
